@@ -1,6 +1,6 @@
 # sklearn机器学习 + pytorch深度学习框架， 采用波士顿房价作为案例  
 
-bilibili： 
+bilibili：  https://www.bilibili.com/video/BV17r4y1e7DC?spm_id_from=333.999.0.0
 
 # 欢迎大家进群交流  
 
