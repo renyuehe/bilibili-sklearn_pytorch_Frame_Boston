@@ -1,9 +1,6 @@
 # sklearn机器学习 + pytorch深度学习框架， 采用波士顿房价作为案例  
 
-
-# bilibili-sklearn_pytorch_Frame_Boston  
 bilibili： 
-
 
 # 欢迎大家进群交流  
 
